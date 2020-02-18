@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.preview {
+  width: 100%;
+  display: flex;
+}
+
+/* .preview > div {
+  display: flex;
+  justify-content: center;
+  flex: 1;
+  margin: auto 20px;
+} */

@@ -1,0 +1,24 @@
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 40px;
+}
+
+.header img {
+  width: 150px;
+}
+
+.container {
+  display: flex;
+  height: 70vh;
+}
+
+.container > div {
+  width: 100%;
+}
